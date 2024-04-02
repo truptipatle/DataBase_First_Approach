@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DatabaseFirstWith_MVC_Temp.props" />
+</Project>

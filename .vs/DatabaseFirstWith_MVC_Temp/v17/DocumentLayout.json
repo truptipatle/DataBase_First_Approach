@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|c:\\tanransh solution\\asp.ner core\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|solutionrelative:databasefirstwith_mvc_temp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|c:\\tanransh solution\\asp.ner core\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|solutionrelative:databasefirstwith_mvc_temp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|c:\\tanransh solution\\asp.ner core\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp\\models\\cfstudentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|solutionrelative:databasefirstwith_mvc_temp\\models\\cfstudentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|c:\\tanransh solution\\asp.ner core\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|solutionrelative:databasefirstwith_mvc_temp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|c:\\tanransh solution\\asp.ner core\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|solutionrelative:databasefirstwith_mvc_temp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|c:\\tanransh solution\\asp.ner core\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|solutionrelative:databasefirstwith_mvc_temp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|c:\\tanransh solution\\asp.ner core\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|solutionrelative:databasefirstwith_mvc_temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|c:\\tanransh solution\\asp.ner core\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|solutionrelative:databasefirstwith_mvc_temp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|c:\\tanransh solution\\asp.ner core\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|solutionrelative:databasefirstwith_mvc_temp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|c:\\tanransh solution\\asp.ner core\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A0EA8CE-6B56-4031-B8DB-AB7958D5CB06}|DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj|solutionrelative:databasefirstwith_mvc_temp\\databasefirstwith_mvc_temp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstWith_MVC_Temp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DatabaseFirstWith_MVC_Temp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T12:47:37.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstWith_MVC_Temp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DatabaseFirstWith_MVC_Temp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:34:13.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstWith_MVC_Temp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DatabaseFirstWith_MVC_Temp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T12:34:05.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstWith_MVC_Temp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DatabaseFirstWith_MVC_Temp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:31:13.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirstWith_MVC_Temp\\appsettings.json",
+              "ToolTip": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\appsettings.json",
+              "RelativeToolTip": "DatabaseFirstWith_MVC_Temp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T12:25:15.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstWith_MVC_Temp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Models\\Employee.cs",
+              "RelativeToolTip": "DatabaseFirstWith_MVC_Temp\\Models\\Employee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:24:50.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstWith_MVC_Temp\\Models\\Student.cs",
+              "ToolTip": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Models\\Student.cs",
+              "RelativeToolTip": "DatabaseFirstWith_MVC_Temp\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:10:05.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CfstudentDbContext.cs",
+              "DocumentMoniker": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Models\\CfstudentDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstWith_MVC_Temp\\Models\\CfstudentDbContext.cs",
+              "ToolTip": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Models\\CfstudentDbContext.cs",
+              "RelativeToolTip": "DatabaseFirstWith_MVC_Temp\\Models\\CfstudentDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:08:16.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseFirstWith_MVC_Temp",
+              "DocumentMoniker": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj",
+              "RelativeDocumentMoniker": "DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj",
+              "ToolTip": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj",
+              "RelativeToolTip": "DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T11:39:24.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstWith_MVC_Temp\\Program.cs",
+              "ToolTip": "C:\\Tanransh Solution\\Asp.ner Core\\DatabaseFirstWith_MVC_Temp\\DatabaseFirstWith_MVC_Temp\\Program.cs",
+              "RelativeToolTip": "DatabaseFirstWith_MVC_Temp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:42:21.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
